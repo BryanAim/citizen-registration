@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "583a5fbd-33bd-49ee-a4f5-17c423aa773b": {
+      "ProjectGuid": "583a5fbd-33bd-49ee-a4f5-17c423aa773b",
+      "DisplayName": "citizen-registration",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

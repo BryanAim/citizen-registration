@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "citizen-registration", "citizen-registration.vbproj", "{583A5FBD-33BD-49EE-A4F5-17C423AA773B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{583A5FBD-33BD-49EE-A4F5-17C423AA773B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{583A5FBD-33BD-49EE-A4F5-17C423AA773B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{583A5FBD-33BD-49EE-A4F5-17C423AA773B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{583A5FBD-33BD-49EE-A4F5-17C423AA773B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13D0CD62-98BB-468B-93B0-AFF4E51707F8}
+	EndGlobalSection
+EndGlobal
