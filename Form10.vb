@@ -15,47 +15,47 @@
 
     End Sub
 
-    Private Sub Label5_Click(sender As Object, e As EventArgs) 
+    Private Sub Label5_Click(sender As Object, e As EventArgs)
 
     End Sub
 
-    Private Sub CheckBox5_CheckedChanged(sender As Object, e As EventArgs) 
+    Private Sub CheckBox5_CheckedChanged(sender As Object, e As EventArgs)
 
     End Sub
 
-    Private Sub CheckBox6_CheckedChanged(sender As Object, e As EventArgs) 
+    Private Sub CheckBox6_CheckedChanged(sender As Object, e As EventArgs)
 
     End Sub
 
-    Private Sub TextBox1_TextChanged(sender As Object, e As EventArgs) 
+    Private Sub TextBox1_TextChanged(sender As Object, e As EventArgs)
 
     End Sub
 
-    Private Sub TextBox3_TextChanged(sender As Object, e As EventArgs) 
+    Private Sub TextBox3_TextChanged(sender As Object, e As EventArgs)
 
     End Sub
 
-    Private Sub TextBox4_TextChanged(sender As Object, e As EventArgs) 
+    Private Sub TextBox4_TextChanged(sender As Object, e As EventArgs)
 
     End Sub
 
-    Private Sub CheckBox4_CheckedChanged(sender As Object, e As EventArgs) 
+    Private Sub CheckBox4_CheckedChanged(sender As Object, e As EventArgs)
 
     End Sub
 
-    Private Sub Label10_Click(sender As Object, e As EventArgs) 
+    Private Sub Label10_Click(sender As Object, e As EventArgs)
 
     End Sub
 
-    Private Sub Label11_Click(sender As Object, e As EventArgs) 
+    Private Sub Label11_Click(sender As Object, e As EventArgs)
 
     End Sub
 
-    Private Sub Label12_Click(sender As Object, e As EventArgs) 
+    Private Sub Label12_Click(sender As Object, e As EventArgs)
 
     End Sub
 
-    Private Sub Label13_Click(sender As Object, e As EventArgs) 
+    Private Sub Label13_Click(sender As Object, e As EventArgs)
 
     End Sub
 
@@ -63,7 +63,7 @@
 
     End Sub
 
-    Private Sub TextBox22_TextChanged(sender As Object, e As EventArgs) 
+    Private Sub TextBox22_TextChanged(sender As Object, e As EventArgs)
 
     End Sub
 End Class

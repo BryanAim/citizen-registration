@@ -149,7 +149,7 @@ Partial Class Form10
         '
         Me.Label21.AutoSize = True
         Me.Label21.Font = New System.Drawing.Font("Segoe UI", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.Label21.Location = New System.Drawing.Point(539, 21)
+        Me.Label21.Location = New System.Drawing.Point(551, 41)
         Me.Label21.Name = "Label21"
         Me.Label21.Size = New System.Drawing.Size(224, 28)
         Me.Label21.TabIndex = 134
