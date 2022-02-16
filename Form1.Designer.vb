@@ -37,6 +37,7 @@ Partial Class Form1
         Me.TextBox29 = New System.Windows.Forms.TextBox()
         Me.TextBox30 = New System.Windows.Forms.TextBox()
         Me.TextBox31 = New System.Windows.Forms.TextBox()
+        Me.Button1 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'Label4
@@ -195,12 +196,24 @@ Partial Class Form1
         Me.TextBox31.TabIndex = 117
         Me.TextBox31.Text = "Occupation"
         '
+        'Button1
+        '
+        Me.Button1.BackColor = System.Drawing.Color.Teal
+        Me.Button1.Font = New System.Drawing.Font("Segoe UI", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.Button1.Location = New System.Drawing.Point(314, 664)
+        Me.Button1.Name = "Button1"
+        Me.Button1.Size = New System.Drawing.Size(552, 49)
+        Me.Button1.TabIndex = 118
+        Me.Button1.Text = "Citizen Log In"
+        Me.Button1.UseVisualStyleBackColor = False
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(7.0!, 15.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.PowderBlue
         Me.ClientSize = New System.Drawing.Size(1255, 840)
+        Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.TextBox31)
         Me.Controls.Add(Me.TextBox24)
         Me.Controls.Add(Me.TextBox29)
@@ -237,4 +250,5 @@ Partial Class Form1
     Friend WithEvents TextBox29 As TextBox
     Friend WithEvents TextBox30 As TextBox
     Friend WithEvents TextBox31 As TextBox
+    Friend WithEvents Button1 As Button
 End Class

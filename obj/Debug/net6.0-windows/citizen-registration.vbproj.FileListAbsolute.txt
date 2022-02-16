@@ -25,3 +25,4 @@ A:\AIM\source\VB-projects\citizen-registration\obj\Debug\net6.0-windows\citizen-
 A:\AIM\source\VB-projects\citizen-registration\obj\Debug\net6.0-windows\ref\citizen-registration.dll
 A:\AIM\source\VB-projects\citizen-registration\obj\Debug\net6.0-windows\citizen-registration.pdb
 A:\AIM\source\VB-projects\citizen-registration\obj\Debug\net6.0-windows\citizen-registration.genruntimeconfig.cache
+A:\AIM\source\VB-projects\citizen-registration\obj\Debug\net6.0-windows\citizen_registration.Form11.resources

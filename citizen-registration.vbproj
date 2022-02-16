@@ -4,7 +4,7 @@
     <OutputType>WinExe</OutputType>
     <TargetFramework>net6.0-windows</TargetFramework>
     <RootNamespace>citizen_registration</RootNamespace>
-    <StartupObject>Sub Main</StartupObject>
+    <StartupObject>citizen_registration.Form11</StartupObject>
     <UseWindowsForms>true</UseWindowsForms>
     <MyType>WindowsForms</MyType>
   </PropertyGroup>

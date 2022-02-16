@@ -32,6 +32,7 @@ Partial Class Form2
         Me.TextBox11 = New System.Windows.Forms.TextBox()
         Me.TextBox14 = New System.Windows.Forms.TextBox()
         Me.TextBox15 = New System.Windows.Forms.TextBox()
+        Me.Button1 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'Button4
@@ -139,12 +140,24 @@ Partial Class Form2
         Me.TextBox15.TabIndex = 100
         Me.TextBox15.Text = "Confirm Password"
         '
+        'Button1
+        '
+        Me.Button1.BackColor = System.Drawing.Color.Teal
+        Me.Button1.Font = New System.Drawing.Font("Segoe UI", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.Button1.Location = New System.Drawing.Point(324, 583)
+        Me.Button1.Name = "Button1"
+        Me.Button1.Size = New System.Drawing.Size(573, 49)
+        Me.Button1.TabIndex = 103
+        Me.Button1.Text = "Admin Log In"
+        Me.Button1.UseVisualStyleBackColor = False
+        '
         'Form2
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(7.0!, 15.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.PowderBlue
         Me.ClientSize = New System.Drawing.Size(1205, 826)
+        Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.TextBox11)
         Me.Controls.Add(Me.TextBox14)
         Me.Controls.Add(Me.TextBox15)
@@ -171,4 +184,5 @@ Partial Class Form2
     Friend WithEvents TextBox11 As TextBox
     Friend WithEvents TextBox14 As TextBox
     Friend WithEvents TextBox15 As TextBox
+    Friend WithEvents Button1 As Button
 End Class
